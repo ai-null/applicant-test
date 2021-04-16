@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Penjualan Barang</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="welcome">Penjualan Barang</string>
+    <string name="punchline">Selamat datang di Penjualan Barang</string>
+    <string name="error_message">Maaf, Anda tidak dapat mengakses modul tersebut</string>
+</resources>
